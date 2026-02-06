@@ -90,7 +90,7 @@ AI_Work/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/AI_Work.git
+git clone https://github.com/guderian120/Artificial_Intelligence_Exam_2026.git
 cd AI_Work
 
 # Install dependencies
@@ -249,8 +249,8 @@ This project is for academic purposes as part of the MSc Information Technology 
 
 ## 👤 Author
 
-**Student Name**: [Your Name]  
-**Student ID**: [Your ID]  
+**Student Name**: Andy Amponsah 
+**Student ID**: 12739598  
 **Date**: February 2026
 
 ---
