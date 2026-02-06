@@ -94,7 +94,7 @@ git clone https://github.com/guderian120/Artificial_Intelligence_Exam_2026.git
 cd AI_Work
 
 # Install dependencies
-pip install kagglehub pandas numpy scikit-learn xgboost matplotlib seaborn jupyter
+pip install -r requirements.txt
 
 # Download dataset
 python scripts/extract_kaggle_dataset.py
