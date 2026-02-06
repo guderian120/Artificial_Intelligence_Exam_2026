@@ -12,8 +12,8 @@
     "Predicted_Failure"
   ],
   "original_memory_mb": 0.2197580337524414,
-  "optimized_memory_mb": 0.09139442443847656,
-  "dataset_path": "data",
+  "optimized_memory_mb": 0.09112739562988281,
+  "dataset_path": "C:\\Users\\AndyAmponsah\\.cache\\kagglehub\\datasets\\ziya07\\iiot-edge-computing-dataset\\versions\\3",
   "selected_features": [
     "Fuzzy_PID_Output",
     "Temperature",
