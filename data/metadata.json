@@ -1,0 +1,38 @@
+{
+  "total_records": 1000,
+  "total_features": 10,
+  "target_column": "Predicted_Failure",
+  "numeric_columns": [
+    "Temperature",
+    "Pressure",
+    "Vibration",
+    "Network_Latency",
+    "Edge_Processing_Time",
+    "Fuzzy_PID_Output",
+    "Predicted_Failure"
+  ],
+  "original_memory_mb": 0.2197580337524414,
+  "optimized_memory_mb": 0.09139442443847656,
+  "dataset_path": "data",
+  "selected_features": [
+    "Fuzzy_PID_Output",
+    "Temperature",
+    "Network_Latency",
+    "Edge_Processing_Time",
+    "Pressure",
+    "Vibration"
+  ],
+  "statistical_features": [
+    "row_mean",
+    "row_std",
+    "row_min",
+    "row_max",
+    "row_range",
+    "row_skew",
+    "row_kurtosis",
+    "row_q25",
+    "row_q75",
+    "row_iqr"
+  ],
+  "pca_components_95": "6"
+}
